@@ -1,8 +1,5 @@
 # Financial Machine Learning and Data Science
 
-![](https://softmedialab.com/wp-content/uploads/2018/08/Financial-applications-of-machine-learning-OG.jpeg)
-
-
 A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python. 
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/). Also, a listed repository should be deprecated if:
@@ -24,6 +21,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 
 ## Reinforcement Learning
+- [RL Trading](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW) - A collection of 25+ Reinforcement Learning Trading Strategies - Google Colab. 
 - [RL](https://github.com/kh-kim/stock_market_reinforcement_learning) - OpenGym with Deep Q-learning and Policy Gradient.
 - [RL II](https://github.com/deependersingla/deep_trader) - reinforcement learning on stock market and agent tries to learn trading.
 - [RL III](https://github.com/samre12/deep-trading-agent) -  Github - Deep Reinforcement Learning based Trading Agent for Bitcoin.
@@ -177,4 +175,22 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
 - [https://stooq.com](https://stooq.com)
 - [https://github.com/timestocome/StockMarketData](https://github.com/timestocome/StockMarketData)
+
+
+# Personal Papers
+- [Financial Machine Learning Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3371902)
+- [Predicting Restaurant Facility Closures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420490)
+- [Predicting Corporate Bankruptcies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420889)
+- [Predicting Earnings Surprises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420722) 
+- [Machine Learning in Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) 
+
+# Colleges, Centers and Departments
+
+- NYU FRE
+- Cornell University
+- Courant NYU
+- Oxford Man
+- Stanford Advanced Financial Technologies
+- Berkley CIFT
+
 
